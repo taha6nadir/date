@@ -148,7 +148,7 @@ const bgMusic =
 
 bgMusic.volume = 0.25;
 
-let musicPlaying = false;
+let musicPlaying = false ;
 
 musicBtn.addEventListener("click", async () => {
 
